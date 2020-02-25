@@ -1,5 +1,6 @@
 # goesclick
-Like the sound Legos make when a child is building a dream from their imagination.
+
+When you're getting into a bath after slaving away on a tough problem and notice the water level rise, it...
 
 ## Spin up
 
