@@ -14,7 +14,7 @@
     "flow-bin": "^0.118.0",
     "graphql": "^14.6.0",
     "graphql.macro": "^1.4.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
     "react": "^16.12.0",
